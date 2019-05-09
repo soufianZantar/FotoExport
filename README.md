@@ -12,5 +12,6 @@ FotoExport its a Android Application that export your albums photos on facebook,
 <li>Log in to your google Drive Account(in FotoExport).</li>
 <li>Select your photos and upload them to your google drive.</li>
 </ul>
+<b>@soufianZantar</b>
 
 
